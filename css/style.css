@@ -795,6 +795,11 @@ a:hover {
   margin: 0 20px;
 }
 
+
+.team-member img {
+  border-radius: 20px !important;
+}
+
 @media (max-width: 1200px) {
   .team-member {
     padding: 30px;
